@@ -1,1 +1,10 @@
-[Speaker001_Angry_0.webm](https://github.com/user-attachments/assets/b5c00525-79f9-4355-b39d-6eba92acf318)
+| Emotion | Speaker001 Sample                                            | Speaker002 Sample | Speaker003 Sample | Description |
+| ------- | ------------------------------------------------------------ | ----------------- | ----------------- | ----------- |
+| Neutral | [Speaker001_Neutral_3.webm](https://github.com/user-attachments/assets/c358499c-4e01-4dc5-ba74-0e36b0c8f76b) |                   |                   |             |
+                |                   |               | Natural, conversational tone      |
+| Happy        | [Listen](assets/audios/Speaker001_Happy_0.webm)                     | [Listen](assets/audios/Speaker002_Happy_0.webm)                     | [Listen](assets/audios/Speaker003_Happy_0.webm)                     | Cheerful and upbeat expression    |
+| Sad          | [Listen](assets/audios/Speaker001_Sad_0.webm)                       | [Listen](assets/audios/Speaker002_Sad_0.webm)                       | [Listen](assets/audios/Speaker003_Sad_0.webm)                       | Melancholic and subdued tone      |
+| Angry        | [Listen](assets/audios/Speaker001_Angry_0.webm)                     | [Listen](assets/audios/Speaker002_Angry_0.webm)                     | [Listen](assets/audios/Speaker003_Angry_0.webm)                     | Intense and forceful delivery     |
+| Fearful      | [Listen](assets/audios/Speaker001_Fearful_0.webm)                   | [Listen](assets/audios/Speaker002_Fearful_0.webm)                   | [Listen](assets/audios/Speaker003_Fearful_0.webm)                   | Anxious and trembling voice       |
+| Surprise     | [Listen](assets/audios/Speaker001_Surprise_0.webm)                  | [Listen](assets/audios/Speaker002_Surprise_0.webm)                  | [Listen](assets/audios/Speaker003_Surprise_0.webm)                  | Excited and astonished expression |
+| Playfulness  | [Listen](assets/audios/Speaker001_Playfulness_0.webm)               | [Listen](assets/audios/Speaker002_Playfulness_0.webm)               | [Listen](assets/audios/Speaker003_Playfulness_0.webm)               | Playful and teasing tone          |
