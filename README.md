@@ -133,6 +133,8 @@
 </td>
 </tr>
 
+[Speaker001_Angry_1.webm](https://github.com/user-attachments/assets/be019bd5-bb36-42b1-aacd-634cfc84b70b)
+
 <tr>
 <td align="center">
 
