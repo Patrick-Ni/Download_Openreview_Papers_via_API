@@ -18,7 +18,7 @@
 <tr>
 <td align="center">
 
-[Donald Trump]([https://github.com/user-attachments/assets/fb225780-d9fe-44b2-9b2e-54390cb3d8fd](https://pro-video.lazcdn.com/gv/lzd_gsp_assortment/video_target/gv92-a32b22ee-a1aafe28-92707877-06ba/trans/f3e15909-49e9-4760-af8e-de948f6fb7f7-hd.mp4))
+[Donald Trump]((https://pro-video.lazcdn.com/gv/lzd_gsp_assortment/video_target/gv92-a32b22ee-a1aafe28-92707877-06ba/trans/f3e15909-49e9-4760-af8e-de948f6fb7f7-hd.mp4))
 
 </td>
 <td align="center">
